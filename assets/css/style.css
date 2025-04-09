@@ -1,0 +1,16 @@
+body {
+/* Color de fondo de la pagina */
+    background-color: #93939370; 
+}
+/*llamado a la etiqueta*/
+header {
+    /* Color de fondo de la pagina */
+    text-align: center;
+    color: rgb(6, 6, 6);
+    font-size: small;
+    }
+nav {
+        color: rgb(255, 80, 80);
+    }
+/* #perfil para llamar a un id */
+/*.perfil para llamar a una clase*/
